@@ -1,0 +1,5 @@
+o Git bash é um console terminal extentido para usarmos os códigos do GIT
+
+O Git é um sistema baseado em CLI - Comand Line Interface
+
+Git add . ou  -a adiciona todos os arquivos no GIT
